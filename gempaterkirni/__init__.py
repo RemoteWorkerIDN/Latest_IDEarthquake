@@ -94,7 +94,7 @@ def tampilkan_data(result):
 
 
 if __name__ == "__main__" :
-    print("Aplikasi Utama")
+    print(f"Package Description:", description)
     result = ekstraksi_data()
     tampilkan_data(result)
 
