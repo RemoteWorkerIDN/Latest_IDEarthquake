@@ -7,6 +7,8 @@ import bs4
 # soup = bs4.BeautifulSoup(content)
 # print(soup.prettify())
 
+description = "To get the latest Indonesia's earthquake data"
+
 
 def ekstraksi_data():
     try:
