@@ -5,6 +5,7 @@ with open("README.md", "r", encoding ="utf-8") as fh:
 
 setup(
     name='Latest_IDEarthquake',
+    # tag_1
     version='0.0.8',
     packages=['gempaterkirni'],
     url='https://github.com/RemoteWorkerIDN/Latest_IDEarthquake',
